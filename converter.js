@@ -57,3 +57,6 @@ function convertTemperature() {
 }
 
 submitButton.addEventListener("click", convertTemperature)
+clearButton.addEventListener("click",()=>{
+    input.value='';
+})
