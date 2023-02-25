@@ -34,3 +34,11 @@ select{
     margin-right: auto;
     width: 5vw;
 }
+
+.output{
+    text-align: center;
+}
+
+.boiling {
+    background-color: red;
+}
